@@ -1,12 +1,13 @@
-# The Program allows the automation of a washing machine (PRESSING).
+# ___ I SHARE WITH YOU SOME TOOLS AND USEFUL LINKS ___
 
+The [sw_pressing_db]( ) Program allows the automation of a washing machine (PRESSING):
+----------------------------------------------------------------------------------------
 - Control the Motors with speed variation
 - Command the valves of : 
     - water filling
     - water drainage
 - Show Porgram progress on LCD display
 - Read commands from the keypad.
-
 
 
 
