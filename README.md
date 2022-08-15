@@ -1,6 +1,6 @@
 # ___ TOOLS AND USEFUL LINKS ___
 
-The [sw_pressing_db]( ) Program allows the automation of a washing machine:
+The Program allows the automation of a washing machine:
 ---------------------------------------------------------------------------
 - Control the Motors with speed variation
 - Command the valves of : 
